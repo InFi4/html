@@ -1,0 +1,46 @@
+.bloc {
+  background-color: rgb(69, 204, 228);
+width: 900px;
+height: 400px;
+margin-left: 200px;
+margin-top: 40px;
+border-radius: 20px;
+padding: 30px;
+}
+body{
+  background-color: peachpuff;
+}
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #f04343 ; /* ніжно червоний колір */
+  color: #000; /* чорний колір тексту */
+  text-decoration: none;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 1); /* тінь */
+}
+
+.button:hover {
+  background-color:yellow; ; /* колір при наведенні курсору */
+}
+.bloc_a {
+  background-color: yellow;
+  width: 400px;
+  height: 400px;
+  margin-left: 10px;
+  border-radius: 20px;
+
+}
+
+.bloc__a{
+  background-color:rgb(241, 50, 113) ;
+  width: 450px;
+  height: 400px;
+  margin-left: 20px;
+  border-radius: 20px;
+
+}
+
+.coolor{
+  color:rgb(241, 50, 113) ;
+}
