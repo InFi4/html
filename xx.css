@@ -1,0 +1,350 @@
+body{
+    margin:0px;
+}
+
+
+
+
+.xx{
+    border-radius :100px.100px.0px ;
+}
+.rounded-input {
+    border: px solid #ccc;
+    border-radius: 25px 0 0 25px; /* Тут встановлюється радіус заокруглення */
+    padding: 10px;
+    outline: #007bff;
+}
+.bloc {
+    border-radius: 25px 0 0 25px ;
+    padding: 3px; ;
+    height: 25px; ;
+    width: 450px;
+    position: fixed;
+    left: 388px; ;
+    top: 15px; ;
+    z-index: index 1000; ;
+}
+.xxxx{
+    margin: -1px; ;
+    width: 2500px; ;
+    height: 135px; ;
+    background-color: rgb(255, 255, 255);
+    position: fixed;
+}
+
+.button_a{
+    width: 300px;
+    height: 300px;
+    padding: 1px;
+    border-radius: 3px solid blec  ;
+    color: black; 
+    background-color: #000000;
+   text-decoration: none;
+   border: rgb(190, 5, 5);
+   border: 5px;
+}
+.ww{
+    color:rgb(0, 0, 0);
+}
+.youtube-button {
+    display: inline-block;
+    padding: 3px;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+    width: 40px; 
+    height: 20px;
+}
+
+.red{
+    background-color: aqua;
+    border: 2px solid #00f; 
+}
+
+
+.position{
+    position: fixed;
+    top: 85px;
+    left: 90px; ;
+}
+
+.button2{
+    display: inline-block;
+    padding: 3px;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+    width: 40px; 
+    height: 20px;
+}
+
+.position2{
+    position: fixed;
+    top: 85px;
+    left:150px ;
+}
+
+
+.button3{
+    display: inline-block;
+    padding: 3px;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+    width: 55px; 
+    height: 20px;
+}
+
+.position3{
+    position: fixed;
+    top: 85px; ;
+    left:210px ;
+}
+
+.button4{
+    display: inline-block;
+    padding: 3px;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+    width: 105px; 
+    height: 20px;
+}
+
+.position4{
+    position: fixed;
+    top: 85px;
+    left:285px ;
+
+
+}
+
+.button5{
+    display: inline-block;
+    padding: 3px;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+    width: 160px; 
+    height: 20px;
+}
+
+.position5{
+    position: fixed;
+    top: 85px;
+    left:410px ;
+}
+
+.button6{
+    display: inline-block;
+    padding: 3px;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+    width: 100px; 
+    height: 20px; 
+}
+
+.position6{
+    position: fixed;
+    top: 85px;
+    left: 450px; 
+}
+
+.button7{
+    display: inline-block;
+    padding: 3px;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+    width: 100px; 
+    height: 20px;   
+}
+
+.position7{
+    position: fixed;
+    top: 85px;
+    left: 590px; ;
+}
+
+.button8{
+    display: inline-block;
+    padding: 3px;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+    width: 100px; 
+    height: 20px;   
+}
+
+.position8{
+    position: fixed;
+    top: 85px;
+    left: 710px;
+}
+
+.button9{
+    display: inline-block;
+    padding: 3px;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+    width: 220px; 
+    height: 20px;
+}
+
+.position9{
+    position: fixed;
+    top: 85px; 
+    left: 835px;
+
+}
+
+.button10{
+    display: inline-block;
+    padding: 3px;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+    width: 110px; 
+    height: 20px;
+}
+
+.position10{
+    position: fixed;
+    top: 85px;
+    left: 1075px; 
+}
+
+.button11{
+    padding: 3px;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+    width: 110px; 
+    height: 20px;
+}
+
+.position11{
+    position: fixed;
+    top:85px ;
+    left:1204px ;
+}
+
+.mm{
+    width: 100px; 
+    height: 2000px; 
+    background-color: rgb(255, 255, 255);
+    position: fixed;
+
+}
+
+.position12{
+    position: fixed;
+    left: 55px; 
+    top: 2px; ;  
+}
+
+.position13{
+    position: fixed;
+    top: 100px; 
+    left: 25px; ;
+}
+
+.position14{
+    position: fixed;
+    left:16px ;
+    top: 115px; ;
+}
+
+.position15{
+    position: fixed;
+    left: 19px;
+    top: 170px;
+}
+
+.position16{
+    position: fixed;
+    left: 20px; ;
+    top: 200px; 
+}
+
+.cc{
+    background-color: black;
+    width: 50px; 
+    height:50px ;
+    border-top:100px ;
+    border-left:150px ;
+}
+
+.odin{
+    margin-top: 136px ;
+    margin-left:101px ;
+    background-color: rgb(255, 255, 255);
+    width:1145px ;
+    height:1600px ;
+    padding: 50px; 
+}
+
+.css{
+    margin-left:20px ;
+}
+
+
+.www{
+    position: absolute;
+    left: 101px; 
+    top:136px ;
+    background-color: rgb(255, 255, 255);
+    width: 1145px; 
+    height:2000px ;
+    padding:50px ;
+}
+
+
+.ww{
+    position: absolute;
+    left: 700px;
+}
+
+.a{
+    width:400px ;
+    height: 250px;
+    background-color: rgb(255, 255, 255);
+   padding:80px ;
+}
+
+
